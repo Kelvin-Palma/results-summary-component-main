@@ -104,8 +104,6 @@ button {
     width: 100%;
     border: none;
     background-color: hsl(224, 30%, 27%);
-}
-button a {
     font-size: 1.1rem;
     text-decoration: none;
     color: white;
