@@ -25,8 +25,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-results-summary-component-main-mydoRLH6h_]
+- Live Site URL: [https://kelvin-palma.github.io/results-summary-component-main/]
 
 ## My process
 
